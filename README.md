@@ -1,2 +1,2 @@
 # Raajje-Fonts-Object-Generator
-A script written in java to create an javascript object array needed for the raajjefonts website
+A script written in java to create a javascript object array needed for the raajjefonts website
