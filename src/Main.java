@@ -15,7 +15,7 @@ public class Main {
         System.out.println("+---------------------------------+");
         System.out.println("| Raajje Fonts - Object Generator |");
         System.out.println("|           by saaiqSAS           |");
-        System.out.println("|             v2.0.0              |");
+        System.out.println("|             v2.0.1              |");
         System.out.println("+---------------------------------+");
 
         //objGen();
@@ -72,7 +72,7 @@ public class Main {
 
                     output += "Source: \"" +  src + "\",";
 
-                    output += "download_link: \"" + " " + "\",";
+                    output += "download_link: \"" + " " + "\"";
 
                     output += "},";
 
